@@ -1,0 +1,45 @@
+body {
+    font-size: 25px;
+    background: #cad3db;
+    font-family: Raleway;
+  }
+  
+  .main {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  
+    #text {
+    align-self: center;
+    padding: 50px;
+  }
+  
+  h4 {
+    color: rgb(43, 107, 245);
+   
+  }
+  
+  .description {
+    font-size: 17px;
+    color: #0b0808;
+    max-width: 850px;
+    padding: 10px;
+    background-color: #fff;
+    margin-top: 20px;
+    justify-content: center;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    color: rgb(6, 69, 151);
+    width: 100%;
+  }
+  
+ 
